@@ -1,0 +1,11 @@
+{
+"composable": {
+  "viewtype": "text",
+  "attributes": {
+    "text": "Dynamic World",
+    "width": "fill_wdith",
+    "text_size": "26",
+    "color": "red"
+  }
+}
+}
