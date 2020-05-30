@@ -5,7 +5,8 @@
          "data":[
             {
                "viewType":"bannerElement",
-               "imageUrl":"https://raw.githubusercontent.com/yasoda-nagulla/images/master/header.png?token=AC5S7ILRI4X476LNE7KDWPK62JWLI",
+               "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+             ",
                "title":"Upto 30% Off",
                "action":{
                   "type":1,
