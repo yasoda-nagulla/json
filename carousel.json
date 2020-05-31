@@ -1,0 +1,125 @@
+{
+  "data":[
+    {
+      "viewType":"carousel",
+      "data":[
+        {
+          "viewType":"CarouselElement",
+          "imageUrl":"https://images.unsplash.com/photo-1565299585323-38d6b0865b47?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          "title":"get Approval instantly",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-92f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"CarouselElement",
+          "imageUrl":"https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"0% Charges on other ATMs",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"CarouselElement",
+          "imageUrl":"https://images.unsplash.com/photo-1497888329096-51c27beff665?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"get offers on Your Credit card",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"CarouselElement",
+          "imageUrl":"https://images.unsplash.com/photo-1437750769465-301382cdf094?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"Get Loans instantly",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"CarouselElement",
+          "imageUrl":"https://images.unsplash.com/photo-1506395308321-904a71783d60?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80",
+          "title":"Do shopping on festive Seasons with AMPF",
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    },
+
+    {
+      "viewType":"Grid",
+      "data":[
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+          "title":"Accounts",
+          "subTitle":"your account details",
+          "meta":{
+            "bgColor":"#EF5350"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+          "title":"Bonds",
+          "subTitle":"142 Places",
+          "meta":{
+            "bgColor":"#EC407A"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+          "title":"Offers",
+          "subTitle":"203 Places",
+          "meta":{
+            "bgColor":"#5C6BC0"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+          "title":"Cards",
+          "subTitle":"40 Places",
+          "meta":{
+            "bgColor":"#26C6DA"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+          "title":"Bills",
+          "subTitle":"110 Places",
+          "meta":{
+            "bgColor":"#9CCC65"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        }
+      ]
+    }
+  ]
+}
