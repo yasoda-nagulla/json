@@ -1,7 +1,7 @@
 {
-  "data":[
+  "corouselItems":[
     {
-      "viewType":"carousel",
+      "viewType":"Carousel",
       "data":[
         {
           "viewType":"CarouselElement",
