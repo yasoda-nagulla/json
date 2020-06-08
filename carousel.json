@@ -60,7 +60,9 @@
           "title":"Accounts",
           "subTitle":"your account details",
           "meta":{
-            "bgColor":"#EF5350"
+            "bgColor":"#EF5350",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -73,7 +75,9 @@
           "title":"Bonds",
           "subTitle":"142 Places",
           "meta":{
-            "bgColor":"#EC407A"
+            "bgColor":"#EC407A",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -86,7 +90,9 @@
           "title":"Offers",
           "subTitle":"203 Places",
           "meta":{
-            "bgColor":"#5C6BC0"
+            "bgColor":"#5C6BC0",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -99,7 +105,9 @@
           "title":"Cards",
           "subTitle":"small cards",
           "meta":{
-            "bgColor":"#26C6DA"
+            "bgColor":"#26C6DA",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -112,7 +120,9 @@
           "title":"Bills",
           "subTitle":"110 Places",
           "meta":{
-            "bgColor":"#9CCC65"
+            "bgColor":"#9CCC65",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -125,7 +135,9 @@
           "title":"Accounts",
           "subTitle":"your account details",
           "meta":{
-            "bgColor":"#EF5350"
+            "bgColor":"#EF5350",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -138,7 +150,9 @@
           "title":"Bonds",
           "subTitle":"142 Places",
           "meta":{
-            "bgColor":"#EC407A"
+            "bgColor":"#EC407A",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -151,7 +165,9 @@
           "title":"Offers",
           "subTitle":"203 Places",
           "meta":{
-            "bgColor":"#5C6BC0"
+            "bgColor":"#5C6BC0",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -164,7 +180,9 @@
           "title":"Cards",
           "subTitle":"40 Places",
           "meta":{
-            "bgColor":"#26C6DA"
+            "bgColor":"#26C6DA",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
@@ -177,7 +195,9 @@
           "title":"Bills",
           "subTitle":"110 Places",
           "meta":{
-            "bgColor":"#9CCC65"
+            "bgColor":"#9CCC65",
+            "shape": "Rectangle",
+            "radius": "7"
           },
           "action":{
             "type":1,
