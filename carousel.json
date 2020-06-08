@@ -118,6 +118,71 @@
             "type":1,
             "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
           }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/hamburger.png",
+          "title":"Accounts",
+          "subTitle":"your account details",
+          "meta":{
+            "bgColor":"#EF5350"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/noodles.png",
+          "title":"Bonds",
+          "subTitle":"142 Places",
+          "meta":{
+            "bgColor":"#EC407A"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/pizza.png",
+          "title":"Offers",
+          "subTitle":"203 Places",
+          "meta":{
+            "bgColor":"#5C6BC0"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/tacos.png",
+          "title":"Cards",
+          "subTitle":"40 Places",
+          "meta":{
+            "bgColor":"#26C6DA"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
+        },
+        {
+          "viewType":"GridElement",
+          "imageUrl":"https://gist.githubusercontent.com/vipulasri/8bd2115e50fd73272ea8de08cd54b9d5/raw/c61e583eb588f711126cc72899739d4c9ac9cba6/ice-cream.png",
+          "title":"Bills",
+          "subTitle":"110 Places",
+          "meta":{
+            "bgColor":"#9CCC65"
+          },
+          "action":{
+            "type":1,
+            "value":"d43e24ca-3522-4106-91f6-09f0b80d1061"
+          }
         }
       ]
     }
