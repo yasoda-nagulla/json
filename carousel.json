@@ -95,9 +95,9 @@
         },
         {
           "viewType":"GridElement",
-          "imageUrl":"https://img.icons8.com/dotty/2x/card-exchange.png",
+          "imageUrl":"https://image.flaticon.com/icons/png/512/60/60378.png",
           "title":"Cards",
-          "subTitle":"40 Places",
+          "subTitle":"small cards",
           "meta":{
             "bgColor":"#26C6DA"
           },
@@ -160,7 +160,7 @@
         },
         {
           "viewType":"GridElement",
-          "imageUrl":"https://img.icons8.com/dotty/2x/card-exchange.png",
+          "imageUrl":"https://image.flaticon.com/icons/png/512/60/60378.png",
           "title":"Cards",
           "subTitle":"40 Places",
           "meta":{
