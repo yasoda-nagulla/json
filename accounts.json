@@ -1,3 +1,4 @@
+
 {
   "d": {
     "statCd": "0001",
@@ -48,7 +49,7 @@
                           "accountDisplayName": {"isDisplayable":true, "value":"SMARTTRADE ONE"},
                           "acctNickNm": null,
                           "acctStrtgyNm": null,
-                          "acctFullNm": {"isDisplayable":false, "value":"SMARTTRADE ONE"},
+                          "acctFullNm": {"isDisplayable":true, "value":"SMARTTRADE ONE"},
                           "acctStatusCd": "ACTIVE",
                           "checkingAcctId": null,
                           "unFmtChckAcctId": null,
@@ -77,7 +78,7 @@
                             ]
                           },
                           "acctBalance": {
-                            "acctValue":{"isDisplayable":true, "value": "$6,720.00"},
+                            "acctValue":{"isDisplayable":true, "value": "$6,720.00","color": "#000000"},
                             "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                             "acctDayChgAmt": "N/A",
                             "acctDayChgPct": "N/A",
@@ -143,7 +144,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value": "$505,673.00"},
+                          "acctValue": {"isDisplayable":true, "value": "$505,673.00","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value": "As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -209,7 +210,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$499,694.38"},
+                          "acctValue": {"isDisplayable":true, "value":"$499,694.38","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value": "As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -275,7 +276,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue":{"isDisplayable":true, "value":"$500,000.00"},
+                          "acctValue":{"isDisplayable":true, "value":"$500,000.00","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -348,7 +349,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$500,000.00"},
+                          "acctValue": {"isDisplayable":true, "value":"$500,000.00","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": null,
                           "acctDayChgPct": null,
@@ -413,7 +414,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue":{"isDisplayable":true, "value": "$17,139.50"},
+                          "acctValue":{"isDisplayable":true, "value": "$17,139.50","color": "#000000"},
                           "acctValueAsOfDt":{"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -478,7 +479,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value": "$14,134.26"},
+                          "acctValue": {"isDisplayable":true, "value": "$14,134.26","color": "#000000"},
                           "acctValueAsOfDt":  {"isDisplayable":true, "value": "As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -552,7 +553,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value": "$6,720.00"},
+                          "acctValue": {"isDisplayable":true, "value": "$6,720.00","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value": "As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -618,7 +619,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$6,668.97"},
+                          "acctValue": {"isDisplayable":true, "value":"$6,668.97","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -684,7 +685,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$144.70"} ,
+                          "acctValue": {"isDisplayable":true, "value":"$144.70","color": "#000000"} ,
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -750,7 +751,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$498,811.22"},
+                          "acctValue": {"isDisplayable":true, "value":"$498,811.22","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -816,7 +817,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$499,967.00"},
+                          "acctValue": {"isDisplayable":true, "value":"$499,967.00","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -882,7 +883,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$499,970.00" },
+                          "acctValue": {"isDisplayable":true, "value":"$499,970.00" ,"color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -948,7 +949,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue":  {"isDisplayable":true, "value":"$500,644.18"},
+                          "acctValue":  {"isDisplayable":true, "value":"$500,644.18","color": "#000000"},
                           "acctValueAsOfDt":  {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
@@ -1014,7 +1015,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value":"$499,443.39"},
+                          "acctValue": {"isDisplayable":true, "value":"$499,443.39","color": "#000000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value":"As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
