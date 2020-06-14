@@ -48,7 +48,7 @@
                           "accountDisplayName": {"isDisplayable":true, "value":"SMARTTRADE ONE"},
                           "acctNickNm": null,
                           "acctStrtgyNm": null,
-                          "acctFullNm": {"isDisplayable":false, "value":"SMARTTRADE ONE"},
+                          "acctFullNm": {"isDisplayable":true, "value":"SMARTTRADE ONE"},
                           "acctStatusCd": "ACTIVE",
                           "checkingAcctId": null,
                           "unFmtChckAcctId": null,
