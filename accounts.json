@@ -49,7 +49,7 @@
                         "accountDisplayName": {"isDisplayable":true, "value":"INDIATRADE ONE"},
                         "acctNickNm": null,
                         "acctStrtgyNm": null,
-                        "acctFullNm": {"isDisplayable":true, "value":"INDIATRADE ONE"},
+                        "acctFullNm": {"isDisplayable":false, "value":"INDIATRADE ONE"},
                         "acctStatusCd": "ACTIVE",
                         "checkingAcctId": null,
                         "unFmtChckAcctId": null,
