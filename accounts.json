@@ -144,7 +144,7 @@
                           ]
                         },
                         "acctBalance": {
-                          "acctValue": {"isDisplayable":true, "value": "INR 505,673.00","color": "#000000"},
+                          "acctValue": {"isDisplayable":true, "value": "INR 505,673.00","color": "#FF0000"},
                           "acctValueAsOfDt": {"isDisplayable":true, "value": "As of 05/26/2020"},
                           "acctDayChgAmt": "N/A",
                           "acctDayChgPct": "N/A",
