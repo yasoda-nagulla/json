@@ -61,7 +61,7 @@
           "subTitle":"your account details",
           "meta":{
             "bgColor":"#EF5350",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -76,7 +76,7 @@
           "subTitle":"142 Places",
           "meta":{
             "bgColor":"#EC407A",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -91,7 +91,7 @@
           "subTitle":"203 Places",
           "meta":{
             "bgColor":"#5C6BC0",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -106,7 +106,7 @@
           "subTitle":"small cards",
           "meta":{
             "bgColor":"#26C6DA",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -121,7 +121,7 @@
           "subTitle":"110 Places",
           "meta":{
             "bgColor":"#9CCC65",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -136,7 +136,7 @@
           "subTitle":"your account details",
           "meta":{
             "bgColor":"#EF5350",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -151,7 +151,7 @@
           "subTitle":"142 Places",
           "meta":{
             "bgColor":"#EC407A",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -166,7 +166,7 @@
           "subTitle":"203 Places",
           "meta":{
             "bgColor":"#5C6BC0",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -181,7 +181,7 @@
           "subTitle":"40 Places",
           "meta":{
             "bgColor":"#26C6DA",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
@@ -196,7 +196,7 @@
           "subTitle":"110 Places",
           "meta":{
             "bgColor":"#9CCC65",
-            "shape": "Rectangle",
+            "shape": "Circle",
             "radius": "7"
           },
           "action":{
